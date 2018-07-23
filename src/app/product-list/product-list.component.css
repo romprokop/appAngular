@@ -1,0 +1,20 @@
+.card-header div{
+    color: #337AB7;
+    transition: 0.25s all;
+    width: 350px;
+}
+
+.card-header div:hover {
+    color: #0D5592;
+    transition: 0.25s all;
+    width: 350px;
+}
+
+thead {
+    color: #337AB7;
+}
+
+.btn {
+    outline: none;
+    border: none;
+}

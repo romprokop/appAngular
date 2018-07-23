@@ -1,0 +1,122 @@
+[
+  {
+    "productId": 1,
+      "productName":"MacBook",
+      "productCode": "MB467",
+      "releaseDate": "March 9, 2015",
+      "description":"12-inch (diagonal) LED-backlit Retina display",
+      "price": 1299,
+      "starRating": 4.2,
+      "imageUrl":"https://pre00.deviantart.net/f190/th/pre/f/2013/312/9/7/os_x_mavericks__macbook_png__by_sucxces-d6t59mq.png"
+  },
+  {
+    "productId": 2,
+    "productName":"MacBook Air 13-inch",
+    "productCode": "MB489",
+    "releaseDate": "March 9, 2015",
+    "description":"13.3-inch (diagonal) LED-backlit widescreen display",
+    "price": 999,
+    "starRating": 4.1,
+    "imageUrl":"https://pre00.deviantart.net/f190/th/pre/f/2013/312/9/7/os_x_mavericks__macbook_png__by_sucxces-d6t59mq.png"
+    },
+  {
+    "productId": 3,
+    "productName":"MacBook Pro 15-inch",
+    "productCode": "MB666",
+    "releaseDate": "March 9, 2015",
+    "description":"15.4-inch (diagonal) LED-backlit Retina display",
+    "price": 1999,
+    "starRating": 4.25,
+    "imageUrl":"https://pre00.deviantart.net/f190/th/pre/f/2013/312/9/7/os_x_mavericks__macbook_png__by_sucxces-d6t59mq.png"
+  },
+  {
+    "productId": 4,
+    "productName":"iMac 27-inch",
+    "productCode": "MB477",
+    "releaseDate": "August 15, 1998",
+    "description":"27-inch (diagonal) LED-backlit Retina 5K display",
+    "price": 1799,
+    "starRating": 4.4,
+    "imageUrl":"https://store.storeimages.cdn-apple.com/4981/as-images.apple.com/is/image/AppleInc/aos/published/images/i/ma/imac/27/imac-27-retina-selection-hero-201706?wid=452&hei=420&fmt=jpeg&qlt=95&op_usm=0.5,0.5&.v=1495749608503"
+  },
+  {
+    "productId": 5,
+    "productName":"iPhone SE",
+    "productCode": "A1662",
+    "releaseDate": "March 31, 2016",
+    "description":"4-inch (diagonal) widescreen LCD Multi-Touch display with IPS technology",
+    "price": 349,
+    "starRating": 4.6,
+    "imageUrl":"https://i5.walmartimages.com/asr/03d90a71-1292-4b72-a092-e6fe184951a6_2.00bda1733634ea3a7aeefbe3739f42ca.jpeg?odnHeight=450&odnWidth=450&odnBg=FFFFFF"
+  },
+  {
+    "productId": 6,
+    "productName":"iPhone 6s",
+    "productCode": "A1633",
+    "releaseDate": "September 25, 2015",
+    "description":"4.7-inch (diagonal) widescreen LCD Multi-Touch display with IPS technology",
+    "price": 449,
+    "starRating": 5,
+    "imageUrl":"https://www.t-mobile.com/images/png/products/phones/Apple-iPhone-6s-Space-Gray/250x270_1.png"
+  },
+  {
+    "productId": 7,
+    "productName":"iPhone 6s Plus",
+    "productCode": "A1634",
+    "releaseDate": "September 25, 2015",
+    "description":"5.5-inch (diagonal) widescreen LCD Multi-Touch display with IPS technology",
+    "price": 549,
+    "starRating": 4.7,
+    "imageUrl":"https://www.t-mobile.com/images/png/products/phones/Apple-iPhone-6s-Space-Gray/250x270_1.png"
+  },
+  {
+    "productId": 8,
+    "productName":"iPhone 7",
+    "productCode": "A1778",
+    "releaseDate": "September 16, 2016",
+    "description":"4.7-inch (diagonal) widescreen LCD Multi-Touch display with IPS technology",
+    "price": 549,
+    "starRating": 4.9,
+    "imageUrl":"https://www.t-mobile.com/images/png/products/phones/Apple-iPhone-6s-Space-Gray/250x270_1.png"
+  },
+  {
+    "productId": 9,
+    "productName":"iPhone 7 Plus",
+    "productCode": "A1784",
+    "releaseDate": "September 16, 2016",
+    "description":"5.5-inch (diagonal) widescreen LCD Multi-Touch display with IPS technology",
+    "price": 669,
+    "starRating": 4.8,
+    "imageUrl":"https://www.t-mobile.com/images/png/products/phones/Apple-iPhone-6s-Space-Gray/250x270_1.png"
+  },  
+  {
+    "productId": 10,
+    "productName":"iPhone 8",
+    "productCode": "A1905",
+    "releaseDate": "September 22, 2017",
+    "description":"4.7-inch (diagonal) widescreen LCD Multi-Touch display with IPS technology",
+    "price": 699,
+    "starRating": 4.67,
+    "imageUrl":"https://www.t-mobile.com/images/png/products/phones/Apple-iPhone-6s-Space-Gray/250x270_1.png"
+  },
+  {
+    "productId": 11,
+    "productName":"iPhone 8 Plus",
+    "productCode": "A1897",
+    "releaseDate": "September 22, 2017",
+    "description":"5.5-inch (diagonal) widescreen LCD Multi-Touch display with IPS technology",
+    "price": 799,
+    "starRating": 4.99,
+    "imageUrl":"https://www.t-mobile.com/images/png/products/phones/Apple-iPhone-6s-Space-Gray/250x270_1.png"
+  },
+  {
+    "productId": 12,
+    "productName":"iPhone X",
+    "productCode": "A1901",
+    "releaseDate": "November 3, 2017",
+    "description":"5.8-inch (diagonal) all-screen OLED Multi-Touch display HDR display",
+    "price": 999,
+    "starRating": 5,
+    "imageUrl":"https://www.att.com/catalog/en/skus/images/apple-iphone%20x-space%20gray-450x350.png"
+  }
+]
